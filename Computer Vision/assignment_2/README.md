@@ -1,0 +1,1 @@
+Implemented image stitching by detecting keypoints using SIFT (Scale-Invariant Feature Transform), refining matches with RANSAC (Random Sample Consensus), and warping images to create a seamless panoramic view.

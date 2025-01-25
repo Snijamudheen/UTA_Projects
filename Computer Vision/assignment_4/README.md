@@ -1,0 +1,1 @@
+Explored deep learning concepts using PyTorch, including building all-convolutional networks, implementing convolutional neural networks (CNNs) from scratch, transfer learning, and applying regularization techniques to improve model performance and reduce overfitting.
